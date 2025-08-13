@@ -1,0 +1,115 @@
+DETAILED DESCRIPTION OF OBTANED OUTPUT:
+
+    I tested two very different passwords using passwordmeter.com to see how much password
+complexity actually matters.
+
+
+---
+
+1. Anand@task242
+
+    Score: 100%
+
+    Complexity: Very Strong
+
+    Length: 13 characters
+
+CONTAINS:
+
+    Uppercase letters → A
+
+    Lowercase letters → nand and task
+
+    Numbers → 242
+
+    Symbol → @
+
+
+Why it’s strong:
+
+    This password ticks all the boxes for security — it’s long enough, mixes different character
+    types, and isn’t a common phrase or dictionary word. Tools rated it “Very Strong” because it would
+    take a brute force program a very long time to crack it. Even if someone tried a dictionary attack,
+    it wouldn’t work since the password isn’t just normal words.
+
+
+
+---
+
+2. password
+
+    Score: 8%
+
+    Complexity: Very Weak
+
+    Length: 8 characters
+
+CONTAINS:
+
+    Only lowercase letters
+
+    No numbers, no symbols, no uppercase letters
+
+
+Why it’s weak:
+This is one of the most common passwords in the world. It’s in every hacker’s dictionary list,
+so it would be cracked instantly without even trying all combinations. It’s also too short and
+predictable, so brute force attacks would break it in no time.
+
+OUTCOME:
+
+From this test, it’s clear that length + variety of characters + unpredictability make the biggest
+difference in password strength. A short, common word is like leaving your house door wide open,
+while a long, mixed password is like having multiple secure locks.
+
+
+
+Key Concepts & Risks (Detailed)
+
+
+
+1. PASSWORD STRENGTH:
+
+    Meaning: How secure your password is against different types of attacks.
+
+    Factors: Length, variety of characters (uppercase, lowercase, numbers, symbols),
+    and randomness.
+
+Why it matters: A strong password makes it harder for hackers to guess or crack it. A weak
+password is like giving them the keys to your account.
+
+    Risk: Weak passwords can be cracked instantly, leading to account hacking, identity theft,
+    or data leaks.
+
+
+
+2. BRUTE FORCE ATTACK:
+
+    Meaning: A hacking method where every possible character combination is tried until the
+    right one is found.
+
+    Example: If a password is “abc”, the attacker tries “aaa”, “aab”, “aac”… until “abc” is found.
+
+    Risk: Short passwords (e.g., 6–8 characters) can be cracked in seconds or minutes. A 12+ character
+    password can take years or even centuries to crack, depending on complexity.
+
+
+
+3. DICTIONARY ATTACK:
+
+    Meaning: Instead of trying random combinations, the attacker uses a pre-made list of common
+    passwords and words from dictionaries.
+
+    Example: The word “password” will be in every hacker’s dictionary file.
+
+    Risk: If your password is a common word, name, or phrase, it can be cracked instantly without
+    needing a brute force attack.
+
+
+4. Authentication
+
+    Meaning: The process of confirming your identity when you log in. This can include passwords,
+    PIN codes, biometrics (fingerprint, face), or one-time codes sent to your phone/email.
+
+    Risk: If authentication is weak (only a password and that password is easy to guess),
+    your account can be taken over easily.
