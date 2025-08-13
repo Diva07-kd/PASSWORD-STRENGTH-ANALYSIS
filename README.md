@@ -72,15 +72,6 @@ Process of proving your identity when logging in (passwords, codes, biometrics).
 
 ---
 
-## 📷 Screenshots
-*Strong Password Example:*  
-![Strong Password](screenshots/strong_password.png)
-
-*Weak Password Example:*  
-![Weak Password](screenshots/weak_password.png)
-
----
-
 ## 📚 What I Learned
 From this activity, I learned:
 - Why length and character variety are important for password security
